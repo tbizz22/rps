@@ -5,3 +5,7 @@
 .p20 {
     padding: 20px;
 }
+
+.border {
+    border: 2px solid black;
+}
